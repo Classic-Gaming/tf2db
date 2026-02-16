@@ -1074,6 +1074,16 @@
                 "cheater"
             ],
             "last_seen": {
+                "player_name": "flying_scotsman",
+                "time": 1771205326
+            },
+            "steamid": "[U:1:354851500]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
                 "player_name": "Paw Shaped Popsicle",
                 "time": 1719280540
             },
