@@ -1388,6 +1388,16 @@
                 "time": 1771585901
             },
             "steamid": "[U:1:1853165526]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "that one player who turnsaround",
+                "time": 1771588819
+            },
+            "steamid": "[U:1:824428442]"
         }
 		
 	]
