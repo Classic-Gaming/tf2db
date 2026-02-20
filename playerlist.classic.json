@@ -1368,6 +1368,26 @@
                 "time": 1771499778
             },
             "steamid": "[U:1:38599952]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Aktlal Maka",
+                "time": 1771573186
+            },
+            "steamid": "[U:1:134988130]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "proxy stacking expert",
+                "time": 1771585901
+            },
+            "steamid": "[U:1:1853165526]"
         }
 		
 	]
