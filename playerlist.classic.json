@@ -1438,6 +1438,26 @@
                 "time": 1771733488
             },
             "steamid": "[U:1:400163352]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "The Baby Blue Menace",
+                "time": 1771835869
+            },
+            "steamid": "[U:1:874750713]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "lil O",
+                "time": 1771835869
+            },
+            "steamid": "[U:1:338620272]"
         }
 		
 	]
