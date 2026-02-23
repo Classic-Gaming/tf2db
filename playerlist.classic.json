@@ -1401,7 +1401,8 @@
         },
 		{
             "attributes": [
-                "cheater"
+                "cheater association",
+				"suspicious"
             ],
             "last_seen": {
                 "player_name": "asmongold tier 3 subscriber",
@@ -1431,7 +1432,8 @@
         },
 		{
             "attributes": [
-                "cheater"
+                "cheater association",
+				"suspicious"
             ],
             "last_seen": {
                 "player_name": "alex `✦ ˑ ִֶָ 𓂃⊹",
