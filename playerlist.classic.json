@@ -1510,6 +1510,16 @@
                 "time": 1772031084
             },
             "steamid": "[U:1:776226371]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Huggy Wuggy",
+                "time": 1772033018
+            },
+            "steamid": "[U:1:1003667660]"
         }
 		
 	]
