@@ -1520,6 +1520,26 @@
                 "time": 1772033018
             },
             "steamid": "[U:1:1003667660]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "vyvy ⋆",
+                "time": 1772212706
+            },
+            "steamid": "[U:1:1112659576]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "amy ⋆",
+                "time": 1772212706
+            },
+            "steamid": "[U:1:1511826918]"
         }
 		
 	]
