@@ -1401,8 +1401,7 @@
         },
 		{
             "attributes": [
-                "cheater association",
-				"suspicious"
+                "cheater association"
             ],
             "last_seen": {
                 "player_name": "asmongold tier 3 subscriber",
@@ -1550,6 +1549,16 @@
                 "time": 1772284677
             },
             "steamid": "[U:1:1131712536]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "i jst dont even care anymore.",
+                "time": 1772452862
+            },
+            "steamid": "[U:1:1154636476]"
         }
 		
 	]
