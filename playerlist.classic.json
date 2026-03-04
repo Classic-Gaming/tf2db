@@ -1569,6 +1569,26 @@
                 "time": 1772472600
             },
             "steamid": "[U:1:436771655]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Squirm",
+                "time": 1772626639
+            },
+            "steamid": "[U:1:773298185]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "turn down the lights am tired",
+                "time": 1772633253
+            },
+            "steamid": "[U:1:1866140149]"
         }
 		
 	]
