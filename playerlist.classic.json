@@ -1589,6 +1589,16 @@
                 "time": 1772633253
             },
             "steamid": "[U:1:1866140149]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "z64: Testing ESP",
+                "time": 1772715877
+            },
+            "steamid": "[U:1:806665242]"
         }
 		
 	]
