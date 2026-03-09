@@ -1709,6 +1709,26 @@
                 "time": 1773059440
             },
             "steamid": "[U:1:827539336]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "clickzy",
+                "time": 1773063192
+            },
+            "steamid": "[U:1:831994410]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "plapgasm",
+                "time": 1773069214
+            },
+            "steamid": "[U:1:769190285]"
         }
 		
 	]
