@@ -1729,6 +1729,37 @@
                 "time": 1773069214
             },
             "steamid": "[U:1:769190285]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Bo Sinn",
+                "time": 1773159661
+            },
+            "steamid": "[U:1:778599808]"
+        },
+		{
+            "attributes": [
+                "cheater association",
+				"suspicious"
+            ],
+            "last_seen": {
+                "player_name": "=็",
+                "time": 1773159661
+            },
+            "steamid": "[U:1:1909779775]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mina Loveberry",
+                "time": 1773160270
+            },
+            "steamid": "[U:1:768654818]"
         }
 		
 	]
