@@ -1810,6 +1810,46 @@
                 "time": 1773327124
             },
             "steamid": "[U:1:1171423776]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "John Iron Lung",
+                "time": 1773578841
+            },
+            "steamid": "[U:1:806777856]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sponsored by inject.net",
+                "time": 1773595498
+            },
+            "steamid": "[U:1:1240446403]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "[DER.FAIL] phaggot",
+                "time": 1773597252
+            },
+            "steamid": "[U:1:1923747331]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "michael fucking myers",
+                "time": 1773597252
+            },
+            "steamid": "[U:1:1219975]"
         }
 		
 	]
