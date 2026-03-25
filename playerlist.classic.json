@@ -1930,6 +1930,36 @@
                 "time": 1774195116
             },
             "steamid": "[U:1:1243155770]"
+        },
+		{
+            "attributes": [
+                "suspicious"
+            ],
+            "last_seen": {
+                "player_name": "cykabrutov",
+                "time": 1774289044
+            },
+            "steamid": "[U:1:828361820]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mapaneseΘΔ",
+                "time": 1774354459
+            },
+            "steamid": "[U:1:768786238]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "K3i",
+                "time": 1774444798
+            },
+            "steamid": "[U:1:1095900067]"
         }
 		
 	]
