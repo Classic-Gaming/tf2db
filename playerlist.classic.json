@@ -1970,6 +1970,16 @@
                 "time": 1774523877
             },
             "steamid": "[U:1:1567493716]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "icedancer",
+                "time": 1774615637
+            },
+            "steamid": "[U:1:35409920]"
         }
 		
 	]
