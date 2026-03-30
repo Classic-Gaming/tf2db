@@ -2010,6 +2010,26 @@
                 "time": 1774709346
             },
             "steamid": "[U:1:844128111]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "who? me?",
+                "time": 1774795612
+            },
+            "steamid": "[U:1:763942255]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "gary",
+                "time": 1774906351
+            },
+            "steamid": "[U:1:311779559]"
         }
 		
 	]
