@@ -2060,6 +2060,36 @@
                 "time": 1775388428
             },
             "steamid": "[U:1:1844556193]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "effulgence",
+                "time": 1775473563
+            },
+            "steamid": "[U:1:758438430]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Kiyt",
+                "time": 1775478341
+            },
+            "steamid": "[U:1:1237913019]"
+        },
+		{
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "LemonPoppers",
+                "time": 1775517035
+            },
+            "steamid": "[U:1:11485006]"
         }
 		
 	]
