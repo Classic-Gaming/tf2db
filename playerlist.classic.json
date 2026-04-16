@@ -1401,7 +1401,7 @@
         },
 		{
             "attributes": [
-                "cheater association"
+                "suspicious"
             ],
             "last_seen": {
                 "player_name": "asmongold tier 3 subscriber",
@@ -1431,7 +1431,6 @@
         },
 		{
             "attributes": [
-                "cheater association",
 				"suspicious"
             ],
             "last_seen": {
@@ -1742,7 +1741,6 @@
         },
 		{
             "attributes": [
-                "cheater association",
 				"suspicious"
             ],
             "last_seen": {
@@ -1763,7 +1761,7 @@
         },
 		{
             "attributes": [
-                "cheater association"
+                "suspicious"
             ],
             "last_seen": {
                 "player_name": "water your plants today",
