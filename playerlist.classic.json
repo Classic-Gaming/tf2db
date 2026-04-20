@@ -2258,6 +2258,26 @@
 				"time": 1776512106
 			},
 			"steamid": "[U:1:1929283193]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mental illness",
+				"time": 1776676519
+			},
+			"steamid": "[U:1:750982765]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "золотые яйца",
+				"time": 1776676075
+			},
+			"steamid": "[U:1:1903238454]"
 		}
 		
 	]
